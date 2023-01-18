@@ -1,0 +1,17 @@
+[book]
+title = "Afstudeerproject"
+authors = ["Jonah Meijers"]
+description = "Het afstudeerproject van Jonah Meijers voor de opleiding CMD"
+language = "nl"
+multilingual = false
+
+[build]
+create-missing = false
+
+[output.html]
+theme = "theme"
+
+[output.html.search]
+enable = false
+
+[preprocessor.external-links]
