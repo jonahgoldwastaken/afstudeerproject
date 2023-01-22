@@ -63,11 +63,11 @@ h6 code {
 
 h2,
 h3 {
-	margin-top: 2.5em;
+	margin-top: 1.5em;
 }
 h4,
 h5 {
-	margin-top: 2em;
+	margin-top: 1em;
 }
 
 .header + .header h3,
@@ -121,6 +121,7 @@ h6:target::before {
 }
 .content p {
 	line-height: 1.45em;
+	margin-top: 0.75em;
 }
 .content ol {
 	line-height: 1.45em;

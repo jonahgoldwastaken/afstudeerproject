@@ -443,6 +443,7 @@ ul#searchresults span.teaser em {
 
 .chapter li a:hover {
 	color: var(--sidebar-active);
+	background: var(--icons);
 }
 
 .chapter li a.active {
