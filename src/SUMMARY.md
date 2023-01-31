@@ -8,3 +8,7 @@
 - [Bronnen](./afstudeervaardigheden/2.md)
 - [Methodes](./afstudeervaardigheden/3.md)
 - [Rapporteren en Valideren](./afstudeervaardigheden/4.md)
+
+---
+
+- [Projectvoorstel](./projectvoorstel.md)

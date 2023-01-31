@@ -12,6 +12,7 @@ create-missing = false
 theme = "theme"
 default-theme = "light"
 preferred-dark-theme = "ayu"
+no-section-label = true
 
 [output.html.search]
 enable = false
