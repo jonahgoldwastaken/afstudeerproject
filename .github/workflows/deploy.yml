@@ -9,14 +9,22 @@ jobs:
     name: GitHub Pages
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions-rs/toolchain@v1
+      - name: Git checkout
+        uses: actions/checkout@v3
+      - name: Rust toolchain
+        uses: actions-rs/toolchain@v1
         with:
           toolchain: stable
-      - run: |
-          cargo install --vers "0.4.25" mdbook
-          cargo install mdbook-external-links
+          default: true
+          profile: minimal
+      - name: Cache
+        uses: Swatinem/rust-cache@v2
+      - name: Install dependencies
+        run: |
+          (test -x $HOME/.cargo/bin/mdbook || cargo install --vers "0.4.25" mdbook)
+          (test -x $HOME/.cargo/bin/mdbook-external-links || cargo install mdbook-external-links)
       - run: mdbook build
       - uses: JamesIves/github-pages-deploy-action@4.1.7
         with:
           folder: book
+          branch: main
