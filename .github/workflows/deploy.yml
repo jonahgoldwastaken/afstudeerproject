@@ -1,0 +1,21 @@
+name: Deploy book
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  pages:
+    name: GitHub Pages
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions-rs/toolchain@v1
+        with:
+          toolchain: stable
+      - run: |
+          cargo install --vers "0.4.25" mdbook
+          cargo install mdbook-external-links
+      - uses: JamesIves/github-pages/deploy-action@4.1.7
+        with:
+          folder: book
