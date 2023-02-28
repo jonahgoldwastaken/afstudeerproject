@@ -1,0 +1,9 @@
+# Aanleiding
+
+Op 3 februari 2021 ben ik gediagnosticeerd met ADHD en heb in de maanden erna therapie gehad voor de diagnose. De behandeling was in groepsverband, online en maakte gebruik van een app voor de behandelde theorie en het huiswerk. De app was ontwikkeld om volwassenen met ADHD op veel verschillende manieren te helpen; wij gebruikten maar een paar van deze features. Door de grote hoeveelheid functionaliteiten liet het ontwerp van de app wat te wensen over. Vaker dan niet moest iemand geholpen worden bij het navigeren van de app.
+
+Dit was erg frustrerend voor iedereen. Het werd op een gegeven moment zo erg dat er grappen werden gemaakt over hoe ik, degene met de design opleiding, een betere versie van deze app zou kunnen maken. Het idee sprak me toentertijd aan en is altijd in mijn achterhoofd blijven hangen tot nu.
+
+Op dit moment zie ik in mijn directe omgeving dat degenen met ADHD bepaalde patronen in hun dagelijks leven niet of met veel moeite kunnen doorbreken. Denk aan het vormen van gewoontes als sporten, het regelmatig opruimen van je woning, elke dag overboeken waardoor je planning niet uitkomt, overal ja op zeggen waardoor je geen eigen tijd meer hebt; ik denk dat veel mensen met ADHD hier last van hebben, ook na therapie gehad te hebben. De raamwerken en methodes die je leert tijdens de behandeling moet je blijven toepassen in je dagelijks leven; de neiging om anders terug te vallen in oude patronen is groot.
+
+Het is hoog tijd dat volwassenen met ADHD adequate hulp (naast therapie) kunnen krijgen op een verzorgde en gestroomlijnde manier. Huidige apps en andere oplossingen zijn niet toegespitst op ADHD of zijn ongemakkelijk in gebruik. Hierdoor kunnen jongvolwassenen met ADHD niet alles uit het product halen wat ze daadwerkelijk willen. Hun wensen worden niet vervuld, waardoor de zoektocht naar het volgende, betere product weer voort wordt gezet.
